@@ -1,4 +1,6 @@
 # Chicago-Taxi
+
+
 Data Analysis and Visualization of Chicago Taxi Data
 
 Data analysis and visualization performed for the year 2016. 
