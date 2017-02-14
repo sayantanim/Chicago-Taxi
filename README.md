@@ -18,4 +18,4 @@ Pandas and Geopandas used for this exercise.
 * Hence I used `grid=True` in the next plot so that the grids are visible.
 * I added 2 more plots both for showing 'Trip Miles' vs. 'Trip Total'.
 * Also changed `set_axis_bgcolor` to `set_facecolor` as per the following warning:
-  * MatplotlibDeprecationWarning: The set_axis_bgcolor function was deprecated in version 2.0. Use set_facecolor instead.
+  * MatplotlibDeprecationWarning: The `set_axis_bgcolor` function was deprecated in version 2.0. Use `set_facecolor` instead.
